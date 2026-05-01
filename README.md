@@ -4,10 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=24&center=true&vCenter=true&width=500&lines=Estudante+de+Ciência+da+Computação;Desenvolvedora+em+formação;Sempre+aprendendo+algo+novo+🚀" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=luanaaline&color=blue" alt="contador de visitas"/>
-</p>
-
 ---
 
 ## 🚀 Sobre mim
