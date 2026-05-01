@@ -1,5 +1,7 @@
 <h1 align="center">👩‍💻 Luana Aline da Silva</h1>
 
+<br><br>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=24&center=true&vCenter=true&width=500&lines=Estudante+de+Ciência+da+Computação;Desenvolvedora+em+formação;Sempre+aprendendo+algo+novo+🚀" />
 </p>
@@ -23,8 +25,6 @@ Sou estudante de Ciência da Computação e estou em constante evolução na ár
 <br><br>
 
 ## 📂 Projetos em destaque
-
-<br><br>
 
 * 🧮 **Calculadora em C**
 * 📚 **Educae**
