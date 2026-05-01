@@ -4,8 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=24&center=true&vCenter=true&width=500&lines=Estudante+de+Ciência+da+Computação;Desenvolvedora+em+formação;Sempre+aprendendo+algo+novo+🚀" />
 </p>
 
-<br><br>
-
 ## 🚀 Sobre mim
 
 Sou estudante de Ciência da Computação e estou em constante evolução na área de desenvolvimento de software, com foco em lógica, resolução de problemas e construção de projetos práticos.
