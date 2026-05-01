@@ -4,13 +4,12 @@
   <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=24&center=true&vCenter=true&width=500&lines=Estudante+de+Ciência+da+Computação;Desenvolvedora+em+formação;Sempre+aprendendo+algo+novo+🚀" />
 </p>
 
----
+
 
 ## 🚀 Sobre mim
 
 Sou estudante de Ciência da Computação e estou em constante evolução na área de desenvolvimento de software, com foco em lógica, resolução de problemas e construção de projetos práticos.
 
----
 
 ## 🛠️ Tecnologias e ferramentas
 
@@ -20,19 +19,16 @@ Sou estudante de Ciência da Computação e estou em constante evolução na ár
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
----
+
 
 ## 📂 Projetos em destaque
 
 * 🧮 **Calculadora em C**
 * 📚 **Educae**
 
----
 
-## 📫 Contato
+<h2 align="center">📫 Contato</h2>
 
 <p align="center">
-  <a href="mailto:luaanaaline2110@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red" />
-  </a>
+  📧 <strong>luaanaaline2110@gmail.com</strong>
 </p>
