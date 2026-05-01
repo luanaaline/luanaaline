@@ -24,6 +24,8 @@ Sou estudante de Ciência da Computação e estou em constante evolução na ár
 
 ## 📂 Projetos em destaque
 
+<br><br>
+
 * 🧮 **Calculadora em C**
 * 📚 **Educae**
 
