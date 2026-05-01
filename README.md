@@ -12,13 +12,11 @@ Sou estudante de Ciência da Computação e estou em constante evolução na ár
 
 ## 🛠️ Tecnologias e ferramentas
 
-## 🛠️ Tecnologias e ferramentas
-
 <p align="center">
-  <img src="https://img.shields.io/badge/C-AEC6CF?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-FF8FAB?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-8AC6D1?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-FFE066?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/C-0057FF?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-FF3D00?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-2962FF?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-FFD600?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
 <br><br>
