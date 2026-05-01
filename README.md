@@ -16,8 +16,9 @@ Sou estudante de Ciência da Computação e estou em constante evolução na ár
 
 <p align="center">
   <img src="https://img.shields.io/badge/C-Programming-blue" />
-  <img src="https://img.shields.io/badge/Git-Version%20Control-orange" />
-  <img src="https://img.shields.io/badge/GitHub-Repository-black" />
+  <img src="https://img.shields.io/badge/HTML-Markup-orange" />
+  <img src="https://img.shields.io/badge/CSS-Style-blue" />
+  <img src="https://img.shields.io/badge/JavaScript-Script-yellow" />
 </p>
 
 ---
@@ -26,15 +27,6 @@ Sou estudante de Ciência da Computação e estou em constante evolução na ár
 
 * 🧮 **Calculadora em C**
 * 📚 **Educae**
-
----
-
-## 📈 Estatísticas
-
-<p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=luanaaline&show_icons=true" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanaaline&layout=compact" />
-</p>
 
 ---
 
