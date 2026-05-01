@@ -27,8 +27,6 @@ Sou estudante de Ciência da Computação e estou em constante evolução na ár
 * 📚 **Educae**
 
 
-<h2 align="center">📫 Contato</h2>
+## 📫 Contato
 
-<p align="center">
-  📧 <strong>luaanaaline2110@gmail.com</strong>
-</p>
+📧 **Email:** `luaanaaline2110@gmail.com`
