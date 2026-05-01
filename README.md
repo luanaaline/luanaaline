@@ -15,7 +15,7 @@ Sou estudante de Ciência da Computação e estou em constante evolução na ár
 
 <p align="center">
   <img src="https://img.shields.io/badge/C-89CFF0?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-FFB6C1?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML-FFB6C1?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-B5EAD7?style=for-the-badge&logo=css3&logoColor=black"/>
   <img src="https://img.shields.io/badge/JavaScript-FFF5BA?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
