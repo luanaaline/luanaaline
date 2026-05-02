@@ -29,7 +29,7 @@ Sou estudante de Ciência da Computação e estou em constante evolução na ár
 * 🧮 **Calculadora em C**
   → Programa que realiza operações matemáticas com tratamento de erros
 
-* 📚 **Educae**
+* 📚 **EducAê**
   → Plataforma educacional interativa voltada para autonomia do estudante
 
 ---
